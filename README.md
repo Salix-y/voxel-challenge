@@ -1,3 +1,5 @@
+
+<img src="kitten3.py-2022-05-18-161156.jpg" width="75%"></img>
 # <a name="title">Taichi Voxel Challenge</a>
 
 <p align="center">
